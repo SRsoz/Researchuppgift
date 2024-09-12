@@ -9,3 +9,10 @@ Under föreläsningarna har jag lärt mig en del- Allt ifrån terminalkommandon,
 - cd
 - mkdir *(kan skilja sig beroende på operativsystem)*
 - Echo
+
+### **Git kommandon:**
+- Git init
+- Git pull
+- Git push
+- Git status
+- Git log
